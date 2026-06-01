@@ -4,11 +4,12 @@
   <em>Junior Developer · Building tools that are actually useful</em>
 </p>
 
+<!-- START LIVE PHILIPPINE STANDARD TIME WIDGET -->
 <p align="center">
-  <a href="https://time.is/Manila" target="_blank">
-    <img src="https://img.shields.io/badge/Philippine%20Standard%20Time-UTC%20%2B8%3A00%20%C2%B7%20Asia%2FManila-0b1f3a?style=for-the-badge&logo=clockify&logoColor=FFD700&labelColor=0b1f3a" alt="Philippine Standard Time"/>
-  </a>
+  <img src="https://readmeme.eu.cc/api/time.svg?theme=terminal&timezone=Asia/Manila&timeFormat=12h&showSeconds=1&showDate=1&showDay=1&label=PST%20Time" alt="Manila, Philippines Live Time" />
 </p>
+<!-- END LIVE PHILIPPINE STANDARD TIME WIDGET -->
+
 <p align="center">
   <a href="https://github.com/itszaheerlgs">
     <img src="https://img.shields.io/github/followers/itszaheerlgs?label=Follow&style=flat-square&color=4A90D9&labelColor=1a1a1a" />
