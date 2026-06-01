@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-time-counter.vercel.app/api?txt=🇵🇭%20Manila%20Time:%20&zone=Asia/Manila&theme=dark" alt="Live Manila Time" />
+  <img src="https://img.shields.io/date/clock?label=🇵🇭%20Manila%20Time&timezone=Asia/Manila&style=for-the-badge&labelColor=0b1f3a&color=4A90D9" alt="Live Manila Time" />
 </p>
 <p align="center">
   <a href="https://github.com/itszaheerlgs">
