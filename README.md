@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Meowmeowng 👋</h1> <p align="center">
 <em>Junior Developer · Building tools that are actually useful</em>
 </p> <p align="center">
-  <a href="https://github.com/itszaheerlgs">
-    <img src="https://img.shields.io/github/followers/itszaheerlgs?label=Follow&style=flat-square&color=4A90D9&labelColor=1a1a1a" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=4A90D9&label=Profile+Views" />
 </p>
 
