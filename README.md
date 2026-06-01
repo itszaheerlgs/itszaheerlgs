@@ -4,6 +4,48 @@
   <em>Junior Developer · Building tools that are actually useful</em>
 </p>
 
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Barlow:wght@400;600&amp;display=swap" rel="stylesheet">
+
+<div id="pst" style="
+  max-width:380px;margin:1rem auto;background:#0b1f3a;border-radius:12px;
+  overflow:hidden;font-family:'Barlow',sans-serif;color:#fff;
+  box-shadow:0 8px 32px rgba(0,0,0,.45);
+">
+  <div style="height:3px;background:linear-gradient(90deg,#0038A8 33%,#CE1126 33% 66%,#FFD700 66%)"></div>
+
+  <div style="display:flex;align-items:center;gap:10px;padding:10px 14px 8px">
+    <img src="https://oras.pagasa.dost.gov.ph/images/pagasa_logo.png" alt="PH Flag" style="width:36px;border-radius:3px;border:1px solid rgba(255,255,255,.15)">
+    <div style="flex:1;line-height:1.2">
+      <div style="font-size:.62rem;letter-spacing:.1em;color:#FFD700;text-transform:uppercase">Philippine Standard Time</div>
+      <div style="font-size:.7rem;color:rgba(255,255,255,.4)">UTC +8:00 · Asia/Manila</div>
+    </div>
+    <img src="https://oras.pagasa.dost.gov.ph/images/phil_flag.png" alt="PAGASA" style="width:34px;object-fit:contain">
+  </div>
+  
+  <div style="text-align:center;padding:4px 10px 8px">
+    <div style="display:flex;align-items:baseline;justify-content:center;gap:4px">
+      <span id="pst-t" style="font-family:'Orbitron',monospace;font-size:clamp(1.4rem, 5vw, 2.0rem);font-weight:700;letter-spacing:.02em">PST</span>
+      <span id="pst-ap" style="font-family:'Orbitron',monospace;font-size:.7rem;color:#FFD700;padding-bottom:1px">TIME</span>
+    </div>
+    <div id="pst-d" style="font-size:.65rem;color:rgba(255,255,255,.55);margin-top:1px;text-transform:uppercase;letter-spacing:.05em">MANILA, PHILIPPINES</div>
+  </div>
+</div>
+
+<script>
+(function(){
+  function pad(n){return n<10?'0'+n:''+n}
+  var M=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var D=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  function tick(){
+    var p=new Date(Date.now()+(new Date().getTimezoneOffset()+480)*60000);
+    var h=p.getHours(),m=p.getMinutes(),s=p.getSeconds();
+    document.getElementById('pst-t').textContent=pad(h%12||12)+':'+pad(m)+':'+pad(s);
+    document.getElementById('pst-ap').textContent=h>=12?'PM':'AM';
+    document.getElementById('pst-d').textContent=D[p.getDay()]+', '+M[p.getMonth()]+' '+p.getDate()+', '+p.getFullYear();
+  }
+  tick();setInterval(tick,1000);
+})();
+</script>
 <p align="center">
   <a href="https://github.com/itszaheerlgs">
     <img src="https://img.shields.io/github/followers/itszaheerlgs?label=Follow&style=flat-square&color=4A90D9&labelColor=1a1a1a" />
