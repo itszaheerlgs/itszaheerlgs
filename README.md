@@ -4,16 +4,6 @@
   <em>Junior Developer · Building tools that are actually useful</em>
 </p>
 
-<p align="center">
-  <img src="manila_time.svg" alt="Live Manila Time" />
-</p>
-<p align="center">
-  <a href="https://github.com/itszaheerlgs">
-    <img src="https://img.shields.io/github/followers/itszaheerlgs?label=Follow&style=flat-square&color=4A90D9&labelColor=1a1a1a&cacheSeconds=86400" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=4A90D9&label=Profile+Views" />
-</p>
-
 ---
 
 ### About Me
