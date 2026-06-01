@@ -1,32 +1,23 @@
 import os
-import requests
 from datetime import datetime
 import pytz
 
-def generate_clock_badge():
-    # Set timezone to Manila
+def generate_clock_svg():
     manila_tz = pytz.timezone('Asia/Manila')
     now = datetime.now(manila_tz)
-    
-    # Format strings nicely
-    time_str = now.strftime("%I:%M:%S %p")  # 11:05:32 AM
-    date_str = now.strftime("%b %d, %Y")    # Jun 01, 2026
-    
-    # URL encode parameters
-    encoded_label = requests.utils.quote(f"🇵🇭 Manila Time")
-    encoded_message = requests.utils.quote(f"{time_str} | {date_str}")
-    
-    # Request badge
-    badge_url = f"https://img.shields.io/badge/{encoded_label}-{encoded_message}-0b1f3a?style=for-the-badge&logo=clockify&logoColor=FFD700"
-    
-    try:
-        response = requests.get(badge_url)
-        if response.status_code == 200:
-            with open("manila_time.svg", "wb") as f:
-                f.write(response.content)
-            print(f"Clock updated to: {time_str}")
-    except Exception as e:
-        print(f"Error: {e}")
+    time_str = now.strftime("%I:%M %p")
+    date_str = now.strftime("%b %d, %Y")
+    label = f"🇵🇭 Manila  {time_str}  ·  {date_str}"
+
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="340" height="36">
+  <rect width="340" height="36" rx="6" fill="#0b1f3a"/>
+  <text x="12" y="24" font-family="monospace,sans-serif" font-size="14"
+        fill="#FFD700" xml:space="preserve">{label}</text>
+</svg>"""
+
+    with open("manila_time.svg", "w", encoding="utf-8") as f:
+        f.write(svg)
+    print(f"SVG updated: {time_str} | {date_str}")
 
 if __name__ == "__main__":
-    generate_clock_badge()
+    generate_clock_svg()
