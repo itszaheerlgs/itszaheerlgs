@@ -43,29 +43,13 @@ I'm a junior developer focused on building practical desktop tools and automatio
   </a>
 </p>
 
+| Project | Description | Stack |
+|---|---|---|
+| [**Titan Scanner**](https://github.com/itszaheerlgs/titanScanner) | Advanced LAN network scanner with port scanning, ARP spoofing detection, banner grabbing, and more | Python · Tkinter · Socket |
+| [**Meownd Meme Maker**](https://github.com/itszaheerlgs/meownd-meme-maker) | GUI tool to composite any video (local or stream link) into a meme template — no editing needed | Python · MoviePy · OpenCV · yt-dlp |
+| [**Yuichiro AI**](https://github.com/itszaheerlgs/yuichiro-ai) | Personal AI chat assistant with persistent memory, switchable personas, and TTS | Python · Groq · SQLite · CustomTkinter |
 
-
-
-🔧 Projects
-
-Project
-Description
-Stack
-Titan Scanner
-Advanced LAN network scanner with port scanning, ARP spoofing detection, banner grabbing, and more
-Python · Tkinter · Socket
-Meownd Meme Maker
-GUI tool to composite any video (local or stream link) into a meme template — no editing needed
-Python · MoviePy · OpenCV · yt-dlp
-Yuichiro AI
-Personal AI chat assistant with persistent memory, switchable personas, and TTS
-Python · Groq · SQLite · CustomTkinter
-
-
-
-
-
-
+---
 
 🧰 Tech Stack
 
@@ -79,38 +63,7 @@ Python · Groq · SQLite · CustomTkinter
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white" />
 </p>
 
-
-
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="itszaheerlgs GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=radical&hide_border=true" alt="itszaheerlgs Top Languages" />
-</p> <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itszaheerlgs&theme=radical&no-frame=true" alt="itszaheerlgs GitHub Trophies" />
-</p> <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itszaheerlgs&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9" alt="itszaheerlgs GitHub Streak" />
-</p> <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itszaheerlgs&theme=minimal&hide_border=true&color=4A90D9&line=4A90D9&point=4A90D9" alt="itszaheerlgs GitHub Activity Graph" />
-</p>
-
-
-
-
-💬 Quote of the Day
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
-
-
-
-
 <p align="center">
 <sub>Made with care · <a href="https://github.com/itszaheerlgs">github.com/itszaheerlgs</a></sub>
 </p>
-
-
-
 
