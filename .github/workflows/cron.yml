@@ -1,0 +1,31 @@
+name: Live Profile Clock
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Triggers every single minute
+  workflow_dispatch:      # Allows you to click a button to test run it anytime
+
+jobs:
+  run-clock:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: pip install pytz requests
+
+    - name: Update Clock File
+      run: python update_time.py
+
+    - name: Save & Commit to Profile
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add manila_time.svg
+        git diff-index --quiet HEAD || (git commit -m "⏱️ Live clock tick updates" && git push)
