@@ -4,12 +4,9 @@
   <em>Junior Developer · Building tools that are actually useful</em>
 </p>
 
-<!-- START LIVE PHILIPPINE STANDARD TIME WIDGET -->
 <p align="center">
-  <img src="https://readmeme.eu.cc/api/time.svg?theme=terminal&timezone=Asia/Manila&timeFormat=12h&showSeconds=1&showDate=1&showDay=1&label=PST%20Time" alt="Manila, Philippines Live Time" />
+  <img src="https://github-readme-time-counter.vercel.app/api?txt=🇵🇭%20Manila%20Time:%20&zone=Asia/Manila&theme=dark" alt="Live Manila Time" />
 </p>
-<!-- END LIVE PHILIPPINE STANDARD TIME WIDGET -->
-
 <p align="center">
   <a href="https://github.com/itszaheerlgs">
     <img src="https://img.shields.io/github/followers/itszaheerlgs?label=Follow&style=flat-square&color=4A90D9&labelColor=1a1a1a" />
