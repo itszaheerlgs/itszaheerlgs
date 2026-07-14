@@ -42,7 +42,7 @@ I'm a junior developer focused on building practical desktop tools and automatio
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Titan Scanner**](https://github.com/itszaheerlgs/titanScanner) | Advanced LAN network scanner with port scanning, ARP spoofing detection, banner grabbing, and more | Python · Tkinter · Socket |
+| [**HIMS File Manager**](https://github.com/itszaheerlgs/titanScanner) | OPD Document Management System — a Windows desktop app for securely storing, organizing, and tracking scanned patient/OPD records, with role-based access, an audit trail, and a date-based calendar view for uploads. | C#NET |
 | [**Meownd Meme Maker**](https://github.com/itszaheerlgs/meownd-meme-maker) | GUI tool to composite any video (local or stream link) into a meme template — no editing needed | Python · MoviePy · OpenCV · yt-dlp |
 | [**Yuichiro AI**](https://github.com/itszaheerlgs/yuichiro-ai) | Personal AI chat assistant with persistent memory, switchable personas, and TTS | Python · Groq · SQLite · CustomTkinter |
 
