@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave">
 </h1>
 <p align="center">
-  <em>🎮 Junior Developer · Building tools that are actually useful 🛠️</em>
+  <em>Junior Developer · Building tools that are actually useful</em>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=4A90D9&label=Profile+Views" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎨 Meet Your Mascot
+## Meet Your Mascot
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="Anime Mascot" />
@@ -21,19 +21,19 @@
 
 ---
 
-## 📝 About Me
+## About Me
 
 I'm a junior developer focused on building practical desktop tools and automation scripts. I enjoy working close to the metal — network utilities, video processing, computer vision, and AI-powered applications.
 
-- 🛠️ Currently building tools with Python, CustomTkinter, and C#/.NET
-- 🤖 Integrating AI APIs (Groq) into real workflows
-- 👁️ Working with computer vision and forensic automation
-- 🌱 Always learning — networking, cybersecurity, backend development
-- 📍 Philippines
+- Currently building tools with Python, CustomTkinter, and C#/.NET
+- Integrating AI APIs (Groq) into real workflows
+- Working with computer vision and forensic automation
+- Always learning — networking, cybersecurity, backend development
+- Based in Philippines
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-profile">
@@ -49,7 +49,7 @@ I'm a junior developer focused on building practical desktop tools and automatio
 
 ---
 
-## 🎮 Pixel Art Skills Bar
+## Skills
 
 ```
 Python       ████████████████░░ 90%
@@ -63,22 +63,22 @@ WordPress    ██████████░░░░░░░░ 70%
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🎮 Project | Description | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**HIMS File Manager Enterprise**](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise) | Role-based OPD document management system with centralized storage, chat, audit logs, and watermarking | C# · WinForms · MySQL |
-| [**ForensicVision**](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite) | Desktop app for pre-analysis automation of forensic autopsy photos with metadata & scale calibration | Python · PyQt6 · OpenCV |
-| [**Yuichiro AI**](https://github.com/itszaheerlgs/Yuichiro-AI) | Personal AI chat assistant with persistent memory, switchable personas, and text-to-speech | Python · Groq · SQLite · CustomTkinter |
-| [**Meownd Meme Maker v2**](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2) | GUI tool to composite any video (local or stream link) into meme templates — no editing needed | Python · MoviePy · Tkinter |
-| [**Titan Scanner**](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro) | Advanced LAN reconnaissance & security auditing tool with Dracula-themed GUI | Python · Tkinter |
-| [**NetGate WiFi Hotspot Manager**](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager) | Time-based WiFi voucher system for Windows — sell internet by the minute | Python · Windows Hotspot API |
-| [**GWT Hospital Statistics Plugin**](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics) | WordPress plugin for DOH Philippines hospital statistical reporting with auto-calculated indicators | PHP · WordPress |
-| [**Barangay Management System**](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET) | Desktop governance app for barangay administration & citizen services | VB.NET · SQL Server |
+| [HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise) | Role-based OPD document management system with centralized storage, chat, audit logs, and watermarking | C# · WinForms · MySQL |
+| [ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite) | Desktop app for pre-analysis automation of forensic autopsy photos with metadata & scale calibration | Python · PyQt6 · OpenCV |
+| [Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI) | Personal AI chat assistant with persistent memory, switchable personas, and text-to-speech | Python · Groq · SQLite · CustomTkinter |
+| [Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2) | GUI tool to composite any video (local or stream link) into meme templates | Python · MoviePy · Tkinter |
+| [Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro) | Advanced LAN reconnaissance & security auditing tool | Python · Tkinter |
+| [NetGate WiFi Hotspot Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager) | Time-based WiFi voucher system for Windows | Python · Windows Hotspot API |
+| [GWT Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics) | WordPress plugin for DOH Philippines hospital statistical reporting | PHP · WordPress |
+| [Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET) | Desktop governance app for barangay administration | VB.NET · SQL Server |
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks:**
 <p align="center">
@@ -114,7 +114,7 @@ WordPress    ██████████░░░░░░░░ 70%
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
@@ -130,54 +130,32 @@ WordPress    ██████████░░░░░░░░ 70%
 
 ---
 
-## 🎯 Current Quest Log
+## Current Work
 
-```
-┌─────────────────────────────────────┐
-│  🏥 Healthcare IT Systems           │
-│  🔍 Forensic Automation & CV        │
-│  🤖 AI Integration Projects         │
-│  🌐 WordPress Plugin Development    │
-└─────────────────────────────────────┘
-```
+- Healthcare IT systems (HIMS, Hospital Analytics)
+- Forensic automation & computer vision
+- AI integration into desktop applications
+- WordPress plugin development
 
 ---
 
-## 💡 What I'm Currently Working On
-
-- 🏥 Healthcare IT systems (HIMS, Hospital Analytics)
-- 🔍 Forensic automation & computer vision
-- 🤖 AI integration into desktop applications
-- 🌐 WordPress plugin development
-
----
-
-## 🤝 Let's Collaborate!
+## Collaboration
 
 I'm open to collaborations on:
-- 🎮 Desktop application development
-- 🏥 Healthcare IT solutions
-- 🔐 Network & security tools
-- 🤖 AI-powered automation
+- Desktop application development
+- Healthcare IT solutions
+- Network & security tools
+- AI-powered automation
 
 Feel free to reach out or check out my repositories!
 
 ---
 
-## 📈 Recent Activity
+## Recent Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itszaheerlgs&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 🎁 Support
-
-If you find my projects useful, consider:
-- ⭐ Star my repositories
-- 🔗 Share with others
-- 💬 Send feedback or suggestions
 
 ---
 
