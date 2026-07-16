@@ -1,10 +1,23 @@
-<h1 align="center">Hi, I'm Meowmeowng 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave">
+  Hi, I'm Meowmeowng 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave">
+</h1>
 <p align="center">
-<em>Junior Developer · Building tools that are actually useful</em>
+  <em>🎮 Junior Developer · Building tools that are actually useful 🛠️</em>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=4A90D9&label=Profile+Views" />
 </p>
+
+---
+
+## 🎨 Meet Your Mascot
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="Anime Mascot" />
+  <p><em>Meowmeowng - Your friendly code companion</em></p>
+</div>
 
 ---
 
@@ -22,7 +35,7 @@ I'm a junior developer focused on building practical desktop tools and automatio
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -36,9 +49,23 @@ I'm a junior developer focused on building practical desktop tools and automatio
 
 ---
 
+## 🎮 Pixel Art Skills Bar
+
+```
+Python       ████████████████░░ 90%
+C#/.NET      ████████████░░░░░░ 80%
+CustomTkinter ███████████░░░░░░░ 75%
+OpenCV       ██████████░░░░░░░░ 70%
+MySQL/SQLite ███████████░░░░░░░ 75%
+PyQt6        █████████░░░░░░░░░ 65%
+WordPress    ██████████░░░░░░░░ 70%
+```
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| 🎮 Project | Description | Stack |
 |---|---|---|
 | [**HIMS File Manager Enterprise**](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise) | Role-based OPD document management system with centralized storage, chat, audit logs, and watermarking | C# · WinForms · MySQL |
 | [**ForensicVision**](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite) | Desktop app for pre-analysis automation of forensic autopsy photos with metadata & scale calibration | Python · PyQt6 · OpenCV |
@@ -54,7 +81,7 @@ I'm a junior developer focused on building practical desktop tools and automatio
 ## 🧰 Tech Stack
 
 **Languages & Frameworks:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -62,14 +89,14 @@ I'm a junior developer focused on building practical desktop tools and automatio
 </p>
 
 **Desktop & GUI:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/CustomTkinter-1a1a1a?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
 **Libraries & Tools:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MoviePy-FFD700?style=flat-square&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -78,7 +105,7 @@ I'm a junior developer focused on building practical desktop tools and automatio
 </p>
 
 **Platforms & APIs:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -97,6 +124,23 @@ I'm a junior developer focused on building practical desktop tools and automatio
   <img src="https://github-readme-streak-stats.herokuapp.com?user=itszaheerlgs&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Current Quest Log
+
+```
+┌─────────────────────────────────────┐
+│  🏥 Healthcare IT Systems           │
+│  🔍 Forensic Automation & CV        │
+│  🤖 AI Integration Projects         │
+│  🌐 WordPress Plugin Development    │
+└─────────────────────────────────────┘
+```
+
 ---
 
 ## 💡 What I'm Currently Working On
@@ -111,15 +155,34 @@ I'm a junior developer focused on building practical desktop tools and automatio
 ## 🤝 Let's Collaborate!
 
 I'm open to collaborations on:
-- Desktop application development
-- Healthcare IT solutions
-- Network & security tools
-- AI-powered automation
+- 🎮 Desktop application development
+- 🏥 Healthcare IT solutions
+- 🔐 Network & security tools
+- 🤖 AI-powered automation
 
 Feel free to reach out or check out my repositories!
 
 ---
 
+## 📈 Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itszaheerlgs&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎁 Support
+
+If you find my projects useful, consider:
+- ⭐ Star my repositories
+- 🔗 Share with others
+- 💬 Send feedback or suggestions
+
+---
+
 <p align="center">
-<sub>Made with care · <a href="https://github.com/itszaheerlgs">github.com/itszaheerlgs</a></sub>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLdo5/giphy.gif" width="30px" alt="pixel heart" />
+  <sub>Made with care · <a href="https://github.com/itszaheerlgs">github.com/itszaheerlgs</a></sub>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLdo5/giphy.gif" width="30px" alt="pixel heart" />
 </p>
