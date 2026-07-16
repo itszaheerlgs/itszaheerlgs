@@ -52,6 +52,7 @@ I'm a junior developer focused on building practical desktop tools and automatio
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/CustomTkinter-1a1a1a?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
