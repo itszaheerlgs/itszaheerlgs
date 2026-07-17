@@ -1,10 +1,6 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave">
-  Hi, I'm Meowmeowng 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave">
-</h1>
+<h1 align="center">Hi, I'm Meowmeowng</h1>
 <p align="center">
-  <em>Junior Developer · Building tools that are actually useful</em>
+  <em>Junior Developer · Building tools that actually work</em>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=4A90D9&label=Profile+Views" />
@@ -12,23 +8,14 @@
 
 ---
 
-## Meet Your Mascot
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="Anime Mascot" />
-  <p><em>Meowmeowng - Your friendly code companion</em></p>
-</div>
-
----
-
 ## About Me
 
-I'm a junior developer focused on building practical desktop tools and automation scripts. I enjoy working close to the metal — network utilities, video processing, computer vision, and AI-powered applications.
+I'm a junior developer learning to build practical desktop tools and automation scripts. I'm interested in network utilities, video processing, computer vision, and exploring AI applications.
 
-- Currently building tools with Python, CustomTkinter, and C#/.NET
-- Integrating AI APIs (Groq) into real workflows
-- Working with computer vision and forensic automation
-- Always learning — networking, cybersecurity, backend development
+- Building tools with Python, CustomTkinter, and C#/.NET
+- Learning to integrate AI APIs into workflows
+- Exploring computer vision and automation
+- Still learning — networking, development practices, and backend work
 - Based in Philippines
 
 ---
@@ -49,38 +36,24 @@ I'm a junior developer focused on building practical desktop tools and automatio
 
 ---
 
-## Skills
-
-```
-Python       ████████████████░░ 90%
-C#/.NET      ████████████░░░░░░ 80%
-CustomTkinter ███████████░░░░░░░ 75%
-OpenCV       ██████████░░░░░░░░ 70%
-MySQL/SQLite ███████████░░░░░░░ 75%
-PyQt6        █████████░░░░░░░░░ 65%
-WordPress    ██████████░░░░░░░░ 70%
-```
-
----
-
-## Featured Projects
+## Projects I've Built
 
 | Project | Description | Stack |
 |---|---|---|
-| [HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise) | Role-based OPD document management system with centralized storage, chat, audit logs, and watermarking | C# · WinForms · MySQL |
-| [ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite) | Desktop app for pre-analysis automation of forensic autopsy photos with metadata & scale calibration | Python · PyQt6 · OpenCV |
-| [Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI) | Personal AI chat assistant with persistent memory, switchable personas, and text-to-speech | Python · Groq · SQLite · CustomTkinter |
-| [Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2) | GUI tool to composite any video (local or stream link) into meme templates | Python · MoviePy · Tkinter |
-| [Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro) | Advanced LAN reconnaissance & security auditing tool | Python · Tkinter |
-| [NetGate WiFi Hotspot Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager) | Time-based WiFi voucher system for Windows | Python · Windows Hotspot API |
-| [GWT Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics) | WordPress plugin for DOH Philippines hospital statistical reporting | PHP · WordPress |
-| [Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET) | Desktop governance app for barangay administration | VB.NET · SQL Server |
+| [HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise) | Document management system for healthcare with role-based access | C# · WinForms · MySQL |
+| [ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite) | Photo analysis tool for forensic work | Python · PyQt6 · OpenCV |
+| [Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI) | Chat assistant with memory and voice | Python · Groq · CustomTkinter |
+| [Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2) | Video to meme template tool | Python · MoviePy |
+| [Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro) | Network scanning utility | Python · Tkinter |
+| [NetGate WiFi Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager) | WiFi voucher system | Python |
+| [Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics) | WordPress plugin for hospital reporting | PHP · WordPress |
+| [Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET) | Local government desktop app | VB.NET · SQL Server |
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks:**
+**Languages:**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
@@ -88,28 +61,13 @@ WordPress    ██████████░░░░░░░░ 70%
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-**Desktop & GUI:**
+**Tools & Frameworks:**
 <p align="center">
   <img src="https://img.shields.io/badge/CustomTkinter-1a1a1a?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white" />
-</p>
-
-**Libraries & Tools:**
-<p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MoviePy-FFD700?style=flat-square&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-**Platforms & APIs:**
-<p align="center">
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -124,43 +82,28 @@ WordPress    ██████████░░░░░░░░ 70%
   <img src="https://github-readme-streak-stats.herokuapp.com?user=itszaheerlgs&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
-## Current Work
+## What I'm Working On
 
-- Healthcare IT systems (HIMS, Hospital Analytics)
-- Forensic automation & computer vision
-- AI integration into desktop applications
-- WordPress plugin development
-
----
-
-## Collaboration
-
-I'm open to collaborations on:
+- Healthcare IT systems
+- Computer vision projects
 - Desktop application development
-- Healthcare IT solutions
-- Network & security tools
-- AI-powered automation
-
-Feel free to reach out or check out my repositories!
+- Learning more about backend development
 
 ---
 
-## Recent Activity
+## Interested In
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itszaheerlgs&theme=dracula&hide_border=true" alt="Contribution Graph" />
-</div>
+- Desktop application development
+- Healthcare IT
+- Network tools
+- Working with others on projects
+
+Feel free to reach out or check out my repositories.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLdo5/giphy.gif" width="30px" alt="pixel heart" />
-  <sub>Made with care · <a href="https://github.com/itszaheerlgs">github.com/itszaheerlgs</a></sub>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLdo5/giphy.gif" width="30px" alt="pixel heart" />
+  <sub>Check out my work at <a href="https://github.com/itszaheerlgs">github.com/itszaheerlgs</a></sub>
 </p>
