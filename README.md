@@ -36,12 +36,16 @@ I'm a junior developer building practical desktop tools, automation scripts, and
 
 ### Tech Stack
 
+<div align="center">
+
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-4A9AFF?style=flat-square&logo=python&logoColor=0C0E13" />
 <img src="https://img.shields.io/badge/C%23%20.NET-4A9AFF?style=flat-square&logo=csharp&logoColor=0C0E13" />
 <img src="https://img.shields.io/badge/VB.NET-4A9AFF?style=flat-square&logo=dotnet&logoColor=0C0E13" />
 <img src="https://img.shields.io/badge/PHP-4A9AFF?style=flat-square&logo=php&logoColor=0C0E13" />
+
+<br><br>
 
 **Tools & Frameworks**
 
@@ -51,6 +55,8 @@ I'm a junior developer building practical desktop tools, automation scripts, and
 <img src="https://img.shields.io/badge/MySQL-191D27?style=flat-square&logo=mysql&logoColor=4A9AFF" />
 <img src="https://img.shields.io/badge/SQLite-191D27?style=flat-square&logo=sqlite&logoColor=4A9AFF" />
 <img src="https://img.shields.io/badge/SQL%20Server-191D27?style=flat-square&logo=microsoftsqlserver&logoColor=4A9AFF" />
+
+</div>
 
 <br>
 
