@@ -64,8 +64,8 @@ I'm a junior developer building practical desktop tools, automation scripts, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&hide_border=true&bg_color=0C0E13&title_color=4A9AFF&icon_color=4A9AFF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=itszaheerlgs&hide_border=true&background=0C0E13&stroke=4A9AFF&ring=4A9AFF&fire=4A9AFF&currStreakLabel=4A9AFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="165" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&hide_border=true&bg_color=0C0E13&title_color=4A9AFF&icon_color=4A9AFF&text_color=C9D1D9" alt="GitHub Stats" height="165" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itszaheerlgs&hide_border=true&background=0C0E13&stroke=4A9AFF&ring=4A9AFF&fire=4A9AFF&currStreakLabel=4A9AFF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="165" />
 
 </div>
 
