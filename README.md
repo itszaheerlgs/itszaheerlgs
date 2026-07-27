@@ -2,77 +2,42 @@
 
 <div align="center">
 
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=2000&color=5E72E4&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+profile;Full-stack+Developer;Healthcare+IT+Specialist;Always+Learning)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=5E72E4)
 
 </div>
+
+---
 
 ## About
 
 Junior developer focused on building practical desktop applications, automation scripts, and healthcare IT systems. Based in the Philippines, currently working with C#/.NET and Python with a passion for creating production-ready solutions.
 
----
+### Current Focus
 
-## Quick Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itszaheerlgs&hide_border=true&background=0C0E13&stroke=5E72E4&ring=5E72E4&fire=FF6B6B&currStreakLabel=FFFFFF)](https://github.com/itszaheerlgs)
-
-</div>
-
----
-
-## What I'm Working On
-
-<details open>
-<summary><b>Current Focus</b></summary>
-
-- **Healthcare IT Tooling** - Building enterprise HIMS systems for hospital ecosystems
-- **Backend Architecture** - Designing scalable systems and networking fundamentals  
-- **Computer Vision** - Integrating AI APIs and image processing solutions
-- **Production Shipping** - Releasing stable, well-tested tools and utilities
-
-</details>
-
-<details>
-<summary><b>Learning & Growth</b></summary>
-
-- Advanced C# patterns and enterprise architecture
-- Distributed systems and API design
-- Cloud deployment strategies
-- Real-time data processing with Python
-
-</details>
+- Healthcare IT tooling for hospital HIMS ecosystems
+- Building robust backend architecture and networking fundamentals  
+- Exploring computer vision and AI integration
+- Shipping production-ready tools and utilities
 
 ---
 
 ## Featured Projects
 
 <details open>
-<summary><b>View All Projects</b></summary>
+<summary><b>View Projects</b></summary>
 
-### Core Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise)** | Enterprise document management with role-based access control | C# WinForms MySQL |
-| **[ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite)** | Professional photo analysis for forensic work | Python PyQt6 OpenCV |
-| **[Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI)** | Chat assistant with memory and voice capabilities | Python Groq CustomTkinter |
-
-### Utilities & Tools
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2)** | Video-to-meme template generator | Python MoviePy |
-| **[Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro)** | Advanced LAN network scanning utility | Python Tkinter |
-| **[NetGate WiFi Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager)** | WiFi hotspot voucher management system | Python |
-
-### Enterprise Solutions
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics)** | WordPress plugin for hospital reporting | PHP WordPress |
-| **[Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET)** | Local government administration desktop app | VB.NET SQL Server |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise)** | Enterprise document management with role-based access | C# • WinForms • MySQL |
+| **[ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite)** | Photo analysis suite for forensic investigation | Python • PyQt6 • OpenCV |
+| **[Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI)** | Chat assistant with memory and voice capabilities | Python • Groq • CustomTkinter |
+| **[Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2)** | Video-to-meme template generator | Python • MoviePy |
+| **[Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro)** | Advanced LAN network scanning utility | Python • Tkinter |
+| **[NetGate WiFi Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager)** | WiFi hotspot voucher management | Python |
+| **[Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics)** | WordPress plugin for hospital reporting | PHP • WordPress |
+| **[Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET)** | Local government desktop application | VB.NET • SQL Server |
 
 </details>
 
@@ -81,104 +46,61 @@ Junior developer focused on building practical desktop applications, automation 
 ## Technical Skills
 
 <details open>
-<summary><b>Expand Skills Breakdown</b></summary>
+<summary><b>Skills & Tools</b></summary>
 
-### Languages
-- **Primary:** Python, C#
-- **Secondary:** VB.NET, PHP, SQL
-- **Expertise Level:** Intermediate to Advanced
+**Languages:** Python • C# • VB.NET • PHP • SQL
 
-### Frameworks & Libraries
-- **Desktop UI:** WinForms, CustomTkinter, PyQt6
-- **Data Processing:** OpenCV, MoviePy, NumPy
-- **Backend:** .NET Framework, PHP
+**Frameworks:** WinForms • CustomTkinter • PyQt6 • .NET • OpenCV
 
-### Database & Data
-- **Relational:** MySQL, SQL Server, SQLite
-- **Specialization:** Database design, optimization, healthcare data systems
+**Databases:** MySQL • SQL Server • SQLite
 
-### Specializations
-- Desktop application development
-- Computer vision and image processing
-- Healthcare IT systems (HIMS)
-- Network utilities and LAN tools
-- Automation scripting
-- Windows application development
-
-### Tools & Platforms
-- Visual Studio, VS Code
-- Git & GitHub
-- SQL Server Management Studio
-- WordPress
-- Docker (learning)
+**Specializations:** Desktop Applications • Computer Vision • Healthcare IT • Network Utilities • System Automation
 
 </details>
 
 ---
 
-## Collaboration & Opportunities
+## GitHub Statistics
 
 <details open>
-<summary><b>How to Work With Me</b></summary>
-
-### I'm Looking For
-
-- Healthcare IT and HIMS system development
-- Desktop applications (C#, Python, WinForms)
-- Computer vision and image analysis projects
-- Network utilities and system automation
-- Cross-platform tool development
-- Opportunities to learn new technologies
-
-### How to Reach Out
-
-1. Open an issue on any of my repositories
-2. Check my GitHub profile for contact information
-3. Propose collaboration ideas directly
-
-### What I Offer
-
-- Full-stack desktop application development
-- Practical problem-solving approach
-- Healthcare domain knowledge
-- Clean, maintainable code
-- Quick iteration and shipping
-
-</details>
-
----
-
-## Repository Activity
-
-<details>
-<summary><b>Recent Activity & Stats</b></summary>
-
-```
-Check my GitHub profile for:
-- Repository activity timeline
-- Commit history
-- Pull request contributions
-- Code language statistics
-```
-
-[Visit My GitHub Profile](https://github.com/itszaheerlgs)
-
-</details>
-
----
-
-## Connect & Learn More
+<summary><b>View Stats</b></summary>
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [github.com/itszaheerlgs](https://github.com/itszaheerlgs) |
-| **View All Repos** | [Repository List](https://github.com/itszaheerlgs?tab=repositories) |
-| **Project Issues** | [Open Issues](https://github.com/issues?q=is%3Aopen+org%3Aitszaheerlgs) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itszaheerlgs&hide_border=true&background=0C0E13&stroke=5E72E4&ring=5E72E4&fire=FF6B6B&currStreakLabel=FFFFFF)](https://github.com/itszaheerlgs)
+
+</div>
+
+</details>
 
 ---
 
-<sub>Last updated: 2026 | Open to opportunities and collaborations</sub>
+## Collaboration
+
+<details open>
+<summary><b>Open to Collaboration</b></summary>
+
+I'm actively seeking partnerships on:
+
+- Healthcare IT and HIMS systems
+- Desktop applications (C#, Python, WinForms)
+- Computer vision projects
+- Network utilities and system automation
+- Cross-platform development
+- Any project where I can learn something new
+
+**Have a project in mind?** Open an issue on one of my repos or reach out directly.
+
+</details>
+
+---
+
+<div align="center">
+
+![Animation](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+[GitHub Profile](https://github.com/itszaheerlgs) | [Repositories](https://github.com/itszaheerlgs?tab=repositories)
+
+<sub>Last Updated: 2026</sub>
 
 </div>
