@@ -1,13 +1,13 @@
 # Hi, I'm Zaheer
 
-Software developer from the Philippines, building practical tools and systems. I work with Python and C#.
+A junior developer from the Philippines, building practical tools and systems. I work with Python and C#.
 
 ## What I do
 
 - Build desktop applications and automation tools
 - Work on healthcare IT systems (HIMS)
 - Explore computer vision and AI
-- Learn new technologies through projects
+- Learn through building
 
 ## Projects
 
