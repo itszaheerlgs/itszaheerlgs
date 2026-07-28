@@ -79,7 +79,7 @@ Desktop app built in VB.NET
 </table>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=000000&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
 
 <div align="center">
 
