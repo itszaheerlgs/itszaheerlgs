@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:D4AF37&text=ZAHEER&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Healthcare%20Software%20Developer%20|%20Python%20|%20C%23%20|%20AI&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:D4AF37&text=ZAHEER&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Junior%20Software%20Developer&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+Healthcare+Software;Desktop+Application+Developer;Automation+Engineer;Computer+Vision+%26+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=D4AF37&center=true&vCenter=true&width=600&lines=Learning+by+building.;Python+%7C+C%23+%7C+Desktop+Applications.;Healthcare+IT+Projects."/>
 
 </div>
 
@@ -10,39 +10,41 @@
 
 # About Me
 
-I'm **Zaheer**, a software developer from the Philippines focused on building practical software that solves real-world problems.
+Hi! I'm **Zaheer**, a junior software developer from the Philippines.
 
-My work primarily revolves around desktop applications, healthcare information systems, automation, networking utilities, and AI-powered solutions.
+I enjoy building desktop applications and small tools that solve practical problems while continuously improving my programming skills. Most of my projects are personal learning projects where I explore different technologies and apply them to real-world scenarios.
 
-### Areas of Interest
+Currently, I'm interested in:
 
-- Healthcare Information Management Systems (HIMS)
-- Desktop Application Development
-- Artificial Intelligence
+- Desktop application development
+- Healthcare Information Systems (HIMS)
+- Python and C#
 - Computer Vision
-- Automation Tools
-- Networking Utilities
+- Automation
+- Artificial Intelligence
 
 ---
 
-# Featured Projects
+# Projects
+
+These are some of the projects I've worked on while learning software development.
 
 | Project | Description |
 |---------|-------------|
-| **[HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise)** | Enterprise healthcare document management system. |
-| **[ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite)** | AI-assisted autopsy photo analysis platform. |
-| **[Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI)** | Desktop AI assistant with voice interaction. |
-| **[Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro)** | Advanced LAN scanner and network utility. |
-| **[NetGate WiFi Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager)** | WiFi hotspot management application. |
-| **[Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics)** | WordPress plugin for hospital analytics. |
-| **[Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET)** | Information management system built with VB.NET. |
-| **[Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2)** | Automated meme video generation tool. |
+| **HIMS File Manager Enterprise** | A document management system designed for healthcare environments. |
+| **ForensicVision** | An experimental computer vision project for autopsy photo analysis. |
+| **Yuichiro AI** | A desktop AI assistant built to explore voice interaction and local AI integration. |
+| **Titan Scanner** | A network scanning utility for learning about networking concepts. |
+| **NetGate WiFi Manager** | A desktop application for managing WiFi hotspot connections. |
+| **Hospital Statistics Plugin** | A WordPress plugin for displaying hospital statistics. |
+| **Barangay Management System** | One of my earlier desktop application projects built with VB.NET. |
+| **Meownd Meme Maker v2** | A simple automation tool for creating meme videos. |
 
 ---
 
 # Tech Stack
 
-## Languages
+### Languages
 
 <div align="center">
 
@@ -50,23 +52,21 @@ My work primarily revolves around desktop applications, healthcare information s
 
 </div>
 
-## Frameworks & Tools
+### Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv,qt,git,github,visualstudio,vscode"/>
+<img src="https://skillicons.dev/icons?i=opencv,qt,git,github,vscode,visualstudio"/>
 
 </div>
 
-### Additional Technologies
+I also have experience working with:
 
 - WinForms
 - PyQt6
 - CustomTkinter
 - SQL Server
 - SQLite
-- REST APIs
-- Windows Services
 
 ---
 
@@ -74,7 +74,7 @@ My work primarily revolves around desktop applications, healthcare information s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=itszaheerlgs&theme=transparent&hide_border=true"/>
 
@@ -82,30 +82,19 @@ My work primarily revolves around desktop applications, healthcare information s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# Activity Graph
+# Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itszaheerlgs&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# Current Focus
-
-- Healthcare Software Development
-- Desktop Applications
-- AI & Computer Vision
-- Medical Document Management
-- Automation Systems
-- Network Utilities
+- Building better desktop applications
+- Writing cleaner and more maintainable code
+- Computer Vision with OpenCV
+- AI integration into desktop software
+- Software design and architecture
 
 ---
 
@@ -131,7 +120,7 @@ My work primarily revolves around desktop applications, healthcare information s
 
 <div align="center">
 
-> *"Building practical software for healthcare, automation, and AI."*
+*"Still learning, one project at a time."*
 
 <br>
 
