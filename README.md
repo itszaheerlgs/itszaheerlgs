@@ -83,21 +83,28 @@ Desktop app built in VB.NET
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-ffffff?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-ffffff?style=flat-square&logo=csharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-ffffff?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ffffff?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<!-- Languages -->
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-![WinForms](https://img.shields.io/badge/WINFORMS-FFD700?style=flat-square)
-![PyQt6](https://img.shields.io/badge/PYQT6-FFD700?style=flat-square&logo=qt&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CUSTOMTKINTER-FFD700?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OPENCV-FFD700?style=flat-square&logo=opencv&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-FFD700?style=flat-square&logo=dotnet&logoColor=white)
+<br>
 
-![MySQL](https://img.shields.io/badge/MYSQL-333333?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_SERVER-333333?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-333333?style=flat-square&logo=sqlite&logoColor=white)
+<!-- Frameworks & Tools -->
+![WinForms](https://img.shields.io/badge/WINFORMS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PYQT6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CUSTOMTKINTER-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<br>
+
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
