@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%2C%20I'M%20ZAHEER&fontSize=36&fontColor=ffffff&fontFamily=Silkscreen&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%2C%20I'M%20ZAHEER&fontSize=36&fontColor=ffffff&font=Silkscreen&animation=fadeIn" alt="Header" />
 
 </div>
 </div>
