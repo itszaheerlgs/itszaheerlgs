@@ -106,7 +106,7 @@ Desktop app built in VB.NET
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itszaheerlgs&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=ffffff&currStreakLabel=000000" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itszaheerlgs&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" height="165" />
 
 </div>
 
@@ -134,6 +134,6 @@ Feel free to reach out or check out the repositories below.
 
 [![GitHub](https://img.shields.io/badge/GITHUB-ITSZAHEERLGS-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/itszaheerlgs)
 
-<img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=ffffff" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=000000" alt="Profile views" />
 
 </div>
