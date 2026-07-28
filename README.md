@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E4E8C&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Zaheer;Junior+Developer+from+the+Philippines;Building+Healthcare+IT+Systems;Python+%7C+C%23+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=26&pause=1000&color=1E4E8C&center=true&vCenter=true&width=600&height=50&lines=HI%2C+I'M+ZAHEER" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&pause=1000&color=5B6472&center=true&vCenter=true&width=600&height=30&lines=Junior+Developer+from+the+Philippines;Building+Healthcare+IT+Systems;Python+%7C+C%23+%7C+Automation" alt="Subheader" />
 
 </div>
 
----
+<div align="center">
 
-### About
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=200&height=30&lines=ABOUT" alt="About" />
 
 A junior developer from the Philippines building practical tools and systems — mostly Python and C#, mostly things that solve a real problem in front of me.
 
@@ -15,9 +21,13 @@ A junior developer from the Philippines building practical tools and systems —
 - Exploring computer vision and AI
 - Learning by building, not just reading
 
----
+<div align="center">
 
-### Projects
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=250&height=30&lines=PROJECTS" alt="Projects" />
 
 <table>
 <tr>
@@ -78,33 +88,41 @@ Desktop app built in VB.NET
 </tr>
 </table>
 
----
+<div align="center">
 
-### Skills
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1E4E8C?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-1E4E8C?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-1E4E8C?style=flat-square&logo=csharp&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-1E4E8C?style=flat-square&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1E4E8C?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1E4E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-![WinForms](https://img.shields.io/badge/WinForms-5B6472?style=flat-square)
-![PyQt6](https://img.shields.io/badge/PyQt6-5B6472?style=flat-square&logo=qt&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5B6472?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5B6472?style=flat-square&logo=opencv&logoColor=white)
+![WinForms](https://img.shields.io/badge/WINFORMS-5B6472?style=flat-square)
+![PyQt6](https://img.shields.io/badge/PYQT6-5B6472?style=flat-square&logo=qt&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CUSTOMTKINTER-5B6472?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OPENCV-5B6472?style=flat-square&logo=opencv&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5B6472?style=flat-square&logo=dotnet&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-333333?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-333333?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-333333?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-333333?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
----
+<div align="center">
 
-### GitHub Stats
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=300&height=30&lines=GITHUB+STATS" alt="Stats" />
 
 <div align="center">
 
@@ -123,9 +141,13 @@ Desktop app built in VB.NET
 </div>
 </details>
 
----
+<div align="center">
 
-### Open To
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=250&height=30&lines=OPEN+TO" alt="Open To" />
 
 - Healthcare IT projects
 - Desktop applications
@@ -137,7 +159,7 @@ Feel free to reach out or check out the repositories below.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-itszaheerlgs-1E4E8C?style=flat-square&logo=github&logoColor=white)](https://github.com/itszaheerlgs)
+[![GitHub](https://img.shields.io/badge/GITHUB-ITSZAHEERLGS-1E4E8C?style=flat-square&logo=github&logoColor=white)](https://github.com/itszaheerlgs)
 
 <img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=1E4E8C" alt="Profile views" />
 
