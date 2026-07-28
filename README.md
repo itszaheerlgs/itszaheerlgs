@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=HI%2C+I'M+ZAHEER" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&pause=1000&color=5B6472&center=true&vCenter=true&width=600&height=30&lines=Junior+Developer+from+the+Philippines;Building+Healthcare+IT+Systems;Python+%7C+C%23+%7C+Automation" alt="Subheader" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=30&lines=Junior+Developer+from+the+Philippines;Building+Healthcare+IT+Systems;Python+%7C+C%23+%7C+Automation" alt="Subheader" />
 
 </div>
 
@@ -89,11 +89,11 @@ Desktop app built in VB.NET
 ![PHP](https://img.shields.io/badge/PHP-ffffff?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-![WinForms](https://img.shields.io/badge/WINFORMS-5B6472?style=flat-square)
-![PyQt6](https://img.shields.io/badge/PYQT6-5B6472?style=flat-square&logo=qt&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CUSTOMTKINTER-5B6472?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OPENCV-5B6472?style=flat-square&logo=opencv&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5B6472?style=flat-square&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/WINFORMS-FFD700?style=flat-square)
+![PyQt6](https://img.shields.io/badge/PYQT6-FFD700?style=flat-square&logo=qt&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CUSTOMTKINTER-FFD700?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OPENCV-FFD700?style=flat-square&logo=opencv&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-FFD700?style=flat-square&logo=dotnet&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MYSQL-333333?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_SERVER-333333?style=flat-square&logo=microsoftsqlserver&logoColor=white)
