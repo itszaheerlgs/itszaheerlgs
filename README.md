@@ -106,7 +106,6 @@ Desktop app built in VB.NET
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=default&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=1A1D24" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itszaheerlgs&theme=default&hide_border=true&background=FFFFFF&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" height="165" />
 
 </div>
