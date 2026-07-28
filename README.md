@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-</div>
-
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=200&height=30&lines=ABOUT" alt="About" />
 
 A junior developer from the Philippines building practical tools and systems — mostly Python and C#, mostly things that solve a real problem in front of me.
@@ -21,11 +15,7 @@ A junior developer from the Philippines building practical tools and systems —
 - Exploring computer vision and AI
 - Learning by building, not just reading
 
-<div align="center">
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=250&height=30&lines=PROJECTS" alt="Projects" />
 
@@ -88,11 +78,6 @@ Desktop app built in VB.NET
 </tr>
 </table>
 
-<div align="center">
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
 
@@ -116,11 +101,6 @@ Desktop app built in VB.NET
 
 </div>
 
-<div align="center">
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=300&height=30&lines=GITHUB+STATS" alt="Stats" />
 
@@ -140,12 +120,6 @@ Desktop app built in VB.NET
 
 </div>
 </details>
-
-<div align="center">
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=1E4E8C&vCenter=true&width=250&height=30&lines=OPEN+TO" alt="Open To" />
 
