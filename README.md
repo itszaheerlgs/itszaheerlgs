@@ -114,7 +114,7 @@ Desktop app built in VB.NET
 <br>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itszaheerlgs&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 
 </div>
 </details>
