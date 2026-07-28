@@ -64,24 +64,6 @@ Additional Technologies
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=itszaheerlgs&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 # Currently Working On
 
 - Hospital Information Systems
