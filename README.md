@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%2C%20I'M%20ZAHEER&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%2C%20I'M%20ZAHEER&fontSize=36&fontColor=ffffff&fontFamily=Silkscreen&animation=fadeIn" alt="Header" />
 
+</div>
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=30&lines=Junior+Developer+from+the+Philippines;Building+Healthcare+IT+Systems;Python+%7C+C%23+%7C+Automation" alt="Subheader" />
 
