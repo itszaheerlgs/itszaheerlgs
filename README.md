@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=200&height=30&lines=ABOUT" alt="About" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=200&height=30&lines=ABOUT" alt="About" />
 
 A junior developer from the Philippines building practical tools and systems — mostly Python and C#, mostly things that solve a real problem in front of me.
 
@@ -17,7 +17,7 @@ A junior developer from the Philippines building practical tools and systems —
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=250&height=30&lines=PROJECTS" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=250&height=30&lines=PROJECTS" alt="Projects" />
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ Desktop app built in VB.NET
 </table>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=000000&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Desktop app built in VB.NET
 </div>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=300&height=30&lines=GITHUB+STATS" alt="Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=300&height=30&lines=GITHUB+STATS" alt="Stats" />
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=itszaheerlgs&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
@@ -125,7 +125,7 @@ Desktop app built in VB.NET
 
 </div>
 </details>
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=250&height=30&lines=OPEN+TO" alt="Open To" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=250&height=30&lines=OPEN+TO" alt="Open To" />
 
 - Healthcare IT projects
 - Desktop applications
@@ -137,8 +137,8 @@ Feel free to reach out or check out the repositories below.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-ITSZAHEERLGS-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/itszaheerlgs)
+[![GitHub](https://img.shields.io/badge/GITHUB-ITSZAHEERLGS-cc292b?style=flat-square&logo=github&logoColor=white)](https://github.com/itszaheerlgs)
 
-<img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=000000" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=cc292b" alt="Profile views" />
 
 </div>
