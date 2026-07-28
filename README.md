@@ -1,144 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%2C%20I'M%20ZAHEER&fontSize=36&fontColor=ffffff&font=Silkscreen&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:D4AF37&text=ZAHEER&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Healthcare%20Software%20Developer%20%7C%20Python%20%7C%20C%23%20%7C%20AI&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=30&lines=Junior+Developer+from+the+Philippines;Building+Healthcare+IT+Systems;Python+%7C+C%23+%7C+Automation" alt="Subheader" />
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=200&height=30&lines=ABOUT" alt="About" />
-
-A junior developer from the Philippines building practical tools and systems — mostly Python and C#, mostly things that solve a real problem in front of me.
-
-- Building desktop applications and automation tools
-- Working on healthcare IT systems (HIMS)
-- Exploring computer vision and AI
-- Learning by building, not just reading
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=250&height=30&lines=PROJECTS" alt="Projects" />
-
-<table>
-<tr>
-<td width="50%">
-
-**[HIMS File Manager Enterprise](https://github.com/itszaheerlgs/HIMS-File-Manager-Enterprise)**
-Healthcare document management system
-
-</td>
-<td width="50%">
-
-**[ForensicVision](https://github.com/itszaheerlgs/ForensicVision-Autopsy-Photo-Analysis-Suite)**
-Autopsy photo analysis suite
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Yuichiro AI](https://github.com/itszaheerlgs/Yuichiro-AI)**
-Chat assistant with voice support
-
-</td>
-<td width="50%">
-
-**[Meownd Meme Maker v2](https://github.com/itszaheerlgs/Meownd-Meme-Video-Maker-v2)**
-Meme video generator
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Titan Scanner](https://github.com/itszaheerlgs/Titan-Scanner-Advanced-LAN-Scanner-Pro)**
-Advanced LAN network scanner
-
-</td>
-<td width="50%">
-
-**[NetGate WiFi Manager](https://github.com/itszaheerlgs/NetGate-WiFi-Hotspot-Manager)**
-WiFi hotspot management tool
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Hospital Statistics Plugin](https://github.com/itszaheerlgs/GWT-Wordpress-Plugin-Hospital-Statistics)**
-WordPress plugin for hospital stats
-
-</td>
-<td width="50%">
-
-**[Barangay Management System](https://github.com/itszaheerlgs/Barangay-Management-and-Information-System-using-VB.NET)**
-Desktop app built in VB.NET
-
-</td>
-</tr>
-</table>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=200&height=30&lines=SKILLS" alt="Skills" />
-
-<div align="center">
-
-<!-- Languages -->
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-<br>
-
-<!-- Frameworks & Tools -->
-![WinForms](https://img.shields.io/badge/WINFORMS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PYQT6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CUSTOMTKINTER-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<br>
-
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+Healthcare+Software;Desktop+Application+Developer;Computer+Vision+and+AI+Projects;Automation+Solutions"/>
 
 </div>
 
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=300&height=30&lines=GITHUB+STATS" alt="Stats" />
+# About
+
+I'm **Zaheer**, a software developer from the Philippines focused on building practical desktop applications, healthcare systems, automation tools, and AI-powered software.
+
+Current interests include:
+
+- Healthcare Information Management Systems (HIMS)
+- Desktop Application Development
+- Computer Vision
+- Artificial Intelligence
+- Automation & Productivity Tools
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **HIMS File Manager Enterprise** | Enterprise document management system for hospitals |
+| **ForensicVision** | AI-assisted autopsy photo analysis suite |
+| **Yuichiro AI** | Desktop AI assistant with voice support |
+| **Titan Scanner** | Advanced LAN scanner and network utility |
+| **NetGate WiFi Manager** | WiFi hotspot management application |
+| **Hospital Statistics Plugin** | WordPress analytics plugin |
+| **Barangay Management System** | VB.NET desktop management system |
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cs,php,mysql,dotnet"/>
+
+</p>
+
+### Frameworks & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=opencv,qt,vscode,visualstudio,git,github"/>
+
+</p>
+
+Additional Technologies
+
+- WinForms
+- PyQt6
+- CustomTkinter
+- SQL Server
+- SQLite
+
+---
+
+# GitHub Statistics
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=itszaheerlgs&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itszaheerlgs&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=itszaheerlgs&theme=transparent&hide_border=true"/>
 
 </div>
 
-<details>
-<summary>Most used languages</summary>
-<br>
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
-</details>
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=FFD700&vCenter=true&width=250&height=30&lines=OPEN+TO" alt="Open To" />
 
-- Healthcare IT projects
-- Desktop applications
-- Computer vision work
-- Network utilities
-- Learning opportunities
+---
 
-Feel free to reach out or check out the repositories below.
+# Currently Working On
+
+- Hospital Information Systems
+- AI-powered desktop applications
+- Medical document management
+- Automation utilities
+
+---
+
+# Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-ITSZAHEERLGS-cc292b?style=flat-square&logo=github&logoColor=white)](https://github.com/itszaheerlgs)
+<a href="https://github.com/itszaheerlgs">
+<img src="https://img.shields.io/badge/GitHub-itszaheerlgs-D4AF37?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=flat-square&color=cc292b" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=itszaheerlgs&style=for-the-badge&color=D4AF37"/>
 
 </div>
