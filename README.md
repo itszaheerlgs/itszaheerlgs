@@ -103,10 +103,9 @@ Desktop app built in VB.NET
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=300&height=30&lines=GITHUB+STATS" alt="Stats" />
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itszaheerlgs&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=itszaheerlgs&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
 
 </div>
 
@@ -115,11 +114,10 @@ Desktop app built in VB.NET
 <br>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&hide_border=true&theme=default&title_color=ffffff&text_color=1A1D24" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszaheerlgs&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 
 </div>
 </details>
-
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=18&pause=100000&color=ffffff&vCenter=true&width=250&height=30&lines=OPEN+TO" alt="Open To" />
 
 - Healthcare IT projects
